@@ -1,0 +1,11 @@
+logging:
+  level: info   # debug | info | warn | error
+  path: "."
+
+backup: false  # keep a .bak copy before trimming
+
+local: false # decides between opencode for external MCP, ollama for local
+
+prompt: ""
+
+

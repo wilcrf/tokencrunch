@@ -14,7 +14,11 @@ Ideally provided as a tool to a LLM agentic workflow orchestrator.
 - Agentic, must play well with LLMs
 - Provide a local flag to run it on a local 8b model (exact one TBD)
 - Charm CLI toolset? TBD
+- Config file based
 
+# Workflow: 
+
+Set env: [CRUNCH_CONFIG]
 
 [W.I.P]
 
